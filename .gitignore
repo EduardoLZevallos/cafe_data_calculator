@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+bin/
+build/
+dist/
+etc/
+lib/
+lib64
+share/
