@@ -1,0 +1,5 @@
+Share resources on how to download jupyter lab 
+Share resource about kernel 
+Link all sections from the documentation
+Show the sections in spanish
+Add Readme, so its also published in the package
