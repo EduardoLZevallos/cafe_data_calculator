@@ -2,6 +2,8 @@ channels:
   - pyviz
 dependencies:
   - jupyter-panel-proxy
+  - pip
   - pip:
-      - cafe-data-calculator==0.0.2
+      # - cafe-data-calculator==0.0.2
       - panel
+      - .
