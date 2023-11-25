@@ -1,7 +1,7 @@
 channels:
-  - conda-forge
+  - pyviz
 dependencies:
-  - panel
   - jupyter-panel-proxy
   - pip:
       - cafe-data-calculator==0.0.2
+      - panel
