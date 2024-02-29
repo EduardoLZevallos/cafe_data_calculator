@@ -4,6 +4,5 @@ dependencies:
   - jupyter-panel-proxy
   - pip
   - pip:
-      # - cafe-data-calculator
       - .
       - panel
